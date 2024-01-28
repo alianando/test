@@ -10,4 +10,4 @@ Image :
 <!-- <img width=60% src='./a.jpg'> -->
 
 ## download 
-[click me to download](https://github.com/Schecher1/Minecraft-Server-Creator/blob/master/README.md)
+[Download](https://github.com/alianando/test/tree/main/build/app/outputs/flutter-apk)

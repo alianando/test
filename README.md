@@ -10,4 +10,6 @@ Image :
 <!-- <img width=60% src='./a.jpg'> -->
 
 ## download 
-[Download](https://github.com/alianando/test/tree/main/build/app/outputs/flutter-apk)
+[Download](https://github.com/alianando/test/blob/main/build/app/outputs/flutter-apk/app-release.apk)
+
+<!-- https://github.com/alianando/test/blob/main/build/app/outputs/flutter-apk/app-release.apk -->

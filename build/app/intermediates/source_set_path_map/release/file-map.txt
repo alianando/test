@@ -1,0 +1,12 @@
+com.example.tes.app-jetified-annotation-experimental-1.1.0-0 C:\Users\anando\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.tes.app-jetified-window-1.0.0-beta04-1 C:\Users\anando\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.example.tes.app-jetified-window-java-1.0.0-beta04-2 C:\Users\anando\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.tes.app-core-1.6.0-3 C:\Users\anando\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res
+com.example.tes.app-main-4 E:\flutter projects\tes\android\app\src\main\res
+com.example.tes.app-release-5 E:\flutter projects\tes\android\app\src\release\res
+com.example.tes.app-pngs-6 E:\flutter projects\tes\build\app\generated\res\pngs\release
+com.example.tes.app-resValues-7 E:\flutter projects\tes\build\app\generated\res\resValues\release
+com.example.tes.app-rs-8 E:\flutter projects\tes\build\app\generated\res\rs\release
+com.example.tes.app-mergeReleaseResources-9 E:\flutter projects\tes\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.tes.app-mergeReleaseResources-10 E:\flutter projects\tes\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.tes.app-merged_res-11 E:\flutter projects\tes\build\app\intermediates\merged_res\release

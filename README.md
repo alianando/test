@@ -10,4 +10,4 @@ Image :
 <!-- <img width=60% src='./a.jpg'> -->
 
 ## download 
-<!-- [click me to download](https://github.com/Schecher1/Minecraft-Server-Creator/blob/master/README.md) -->
+[click me to download](https://github.com/Schecher1/Minecraft-Server-Creator/blob/master/README.md)
